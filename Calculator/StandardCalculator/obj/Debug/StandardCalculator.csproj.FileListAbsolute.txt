@@ -1,0 +1,6 @@
+C:\Users\X240\source\repos\Calculator\StandardCalculator\bin\Debug\StandardCalculator.dll
+C:\Users\X240\source\repos\Calculator\StandardCalculator\bin\Debug\StandardCalculator.pdb
+C:\Users\X240\source\repos\Calculator\StandardCalculator\obj\Debug\StandardCalculator.csprojAssemblyReference.cache
+C:\Users\X240\source\repos\Calculator\StandardCalculator\obj\Debug\StandardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\X240\source\repos\Calculator\StandardCalculator\obj\Debug\StandardCalculator.dll
+C:\Users\X240\source\repos\Calculator\StandardCalculator\obj\Debug\StandardCalculator.pdb
