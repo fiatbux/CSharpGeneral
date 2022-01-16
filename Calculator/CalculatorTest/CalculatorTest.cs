@@ -36,5 +36,15 @@ namespace CalculatorTest
 
             Assert.AreEqual(expected, actual, "Sum of doubles is not equal");
         }
+
+        [TestCase(2.5, 5.5, 13.75)]
+        public void MultiplyTest2(double x, double y, double expected)
+        {
+
+            var actual = calculator.Multiply(x, y);
+
+            Assert.That(expected.Equals(actual), "Sum of doubles is not equal");
+        }
+
     }
 }
